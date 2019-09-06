@@ -5,5 +5,6 @@ public class Test01 {
   private String b="0002";
   private String c="0003";
   private String d="0004";
+  private String e="0005";
   private String f="0006";
 }
