@@ -8,4 +8,5 @@ public class Test01 {
   private String e="0005";
   private String f="0006";
   private String g="0007";
+  private String i="0009";
 }
